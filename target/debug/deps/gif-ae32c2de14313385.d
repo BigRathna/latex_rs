@@ -1,0 +1,11 @@
+D:\rathna_windows\Weird Chapter\Projects\rust\latex_rs\target\debug\deps\libgif-ae32c2de14313385.rmeta: C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\lib.rs C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\traits.rs C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\common.rs C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\reader\mod.rs C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\reader\decoder.rs C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\encoder.rs C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\../README.md
+
+D:\rathna_windows\Weird Chapter\Projects\rust\latex_rs\target\debug\deps\gif-ae32c2de14313385.d: C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\lib.rs C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\traits.rs C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\common.rs C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\reader\mod.rs C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\reader\decoder.rs C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\encoder.rs C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\../README.md
+
+C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\lib.rs:
+C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\traits.rs:
+C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\common.rs:
+C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\reader\mod.rs:
+C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\reader\decoder.rs:
+C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\encoder.rs:
+C:\Users\rathn\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\gif-0.11.4\src\../README.md:
